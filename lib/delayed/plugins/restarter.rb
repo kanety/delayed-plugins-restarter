@@ -1,0 +1,5 @@
+require "active_support"
+require "delayed_job"
+require "get_process_mem"
+require "delayed/plugins/restarter/version"
+require "delayed/plugins/restarter/callback"
